@@ -1,3 +1,4 @@
+require('dotenv').confing();
 const express = require('express');
 const helmet = require('helmet');
 
